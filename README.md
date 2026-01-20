@@ -25,3 +25,11 @@ Overall, this Library RESTful API project provides a clear understanding of how 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1de3fcf4-aac0-4649-85ea-fdce08863d39" />
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/cd022784-0a0f-4817-ae1b-3c3585b1b5c6" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/979920fc-1a29-49a6-8765-4f65b32e095e" />
+
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/06f35b7b-f1c6-4be9-b7a2-75f5ce1e82d5" />
+
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/9f001be9-7ce7-4e8c-9ea7-c93a1357df45" />
