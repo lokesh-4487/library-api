@@ -1,17 +1,17 @@
 # library-api
 Library RESTful API using Node.js and Express
 
-COMPANY : CODTECH IT SOLUTIONS
+*COMPANY* : CODTECH IT SOLUTIONS
 
-NAME : LOKESH AMOL PATIL
+*NAME* : LOKESH AMOL PATIL
 
-INTERN ID : CTIS3438
+*INTERN ID* : CTIS3438
 
-DOMAIN : SOFTWARE DEVELOPMENT
+*DOMAIN* : SOFTWARE DEVELOPMENT
 
-DURATION : 8 WEEKS
+*DURATION* : 8 WEEKS
 
-MENTOR : NEELA SANTOSH
+*MENTOR* : NEELA SANTOSH
 
 
 ##A Library Management API is a backend application that is used to manage information related to books in a library in a structured and efficient way. In modern software systems, most applications do not work as a single unit; instead, they are divided into two main parts: frontend and backend. The frontend is the user interface that users can see and interact with, while the backend handles data storage, logic, and communication. In this project, a RESTful API is developed for a library system, which acts as the backend and allows operations such as adding new books, viewing existing books, updating book details, and deleting books when required. These operations together are known as CRUD operations, which stand for Create, Read, Update, and Delete.
