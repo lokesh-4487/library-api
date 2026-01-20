@@ -23,3 +23,5 @@ Overall, this Library RESTful API project provides a clear understanding of how 
 #OUTPUT
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1de3fcf4-aac0-4649-85ea-fdce08863d39" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/cd022784-0a0f-4817-ae1b-3c3585b1b5c6" />
